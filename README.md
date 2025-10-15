@@ -1,6 +1,6 @@
 # Hi 👋, I'm Abhay  
 
-💻 **Java Backend Developer | Problem Solver | Tech Enthusiast**  
+💻 **Java Backend Developer | Problem Solver | Tech Enthusiast |MSc Tech Student**  
 
 I am passionate about building **scalable, reliable, and high-performance backend systems**.  
 With strong expertise in **Java, Spring Boot, Microservices, REST APIs, and Databases**, I thrive on solving complex challenges and transforming ideas into real-world applications.  
